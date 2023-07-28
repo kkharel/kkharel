@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kkharel
-- 👀 I’m interested in SQL, R & Python mainly focusing on Statistical Analysis, Monte Carlo Methods & Optimization
+- 👀 I’m interested in SQL, R & Python mainly on Machine Learning & Artificial Intelligence
 - 🌱 I’m currently learning Reinforcement Learning & Signal Processing
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me @ kushalkharelsearch@gmail.com
