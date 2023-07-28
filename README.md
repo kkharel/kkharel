@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkharel
 - 👀 I’m interested in SQL, R & Python mainly on Machine Learning & Artificial Intelligence
-- 🌱 I’m currently learning Reinforcement Learning & Signal Processing
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me @ kushalkharelsearch@gmail.com
 
