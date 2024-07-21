@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kkharel
-- 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me @ kushalkharelsearch@gmail.com
 
 <!---
