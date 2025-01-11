@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kkharel
+- 👋 Hi, I’m kkharel
 - 📫 Reach me @ kushalkharelsearch@gmail.com
 
 <!---
